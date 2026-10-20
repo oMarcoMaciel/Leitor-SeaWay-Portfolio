@@ -28,7 +28,7 @@ O aplicativo foi desenvolvido para os coletores utilizados pela equipe responsá
 
 Atuei como **desenvolvedor freelance**, em dupla com um colega. Nós dois participamos de todas as frentes da solução: interface Android, dados locais, regras de permissões, contagens, exportação e sincronização.
 
-Desenvolvi o projeto entre **junho e julho de 2024**, com uma versão entregue para a equipe de estoque da Seaway. As imagens abaixo foram capturadas numa execução local com dados fictícios.
+Desenvolvi o projeto entre **junho e agosto de 2024**, com uma versão entregue para a equipe de estoque da Seaway. As imagens abaixo foram capturadas numa execução local com dados fictícios.
 
 ## A solução
 
@@ -101,8 +101,6 @@ Entrega de aplicativo para uso pela equipe de estoque, com desenvolvimento em du
 O projeto original foi copiado para um ambiente isolado. A configuração de build foi ajustada nessa cópia para compilar o módulo raiz com as fontes existentes, usando Gradle 8.11.1, JDK 17 e Android SDK 34. Nenhuma dessas adaptações foi enviada ao repositório privado.
 
 Uma loja, um operador, sessões e leituras fictícias foram adicionados exclusivamente à base de demonstração. O emulador representa o Android para captura das telas. A leitura foi simulada por entrada de texto; o leitor físico do coletor, a transferência USB, o Bluetooth e o envio por e-mail não foram testados nesta execução.
-
-A demonstração utiliza o código disponível atualmente; pode haver diferenças em relação à versão entregue em 2024.
 
 ---
 
