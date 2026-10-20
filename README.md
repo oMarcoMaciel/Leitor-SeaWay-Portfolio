@@ -106,6 +106,6 @@ A demonstração utiliza o código disponível atualmente; pode haver diferença
 
 ---
 
-**Autor do estudo:** [Marco Maciel](https://github.com/oMarcoMaciel) · [LinkedIn](https://www.linkedin.com/in/omarcomaciel/)
+**Autores do estudo:** [Marco Maciel](https://github.com/oMarcoMaciel) · [João Victor](https://github.com/joaovictorrio)
 
 Este repositório contém documentação visual e explicações do projeto. O código da aplicação, APK, credenciais e dados operacionais não são publicados aqui.
